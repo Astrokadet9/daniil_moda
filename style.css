@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+
+
+h1 {
+  color:darkgreen ;
+  text-align:center;
+  background-color: rgb(0, 0, 0);
+  border: 5px black double;
+  margin: 0px;
+  padding-bottom: 30px;
+}
+
+h2{
+    padding: 10px;
+   
+    text-align:center;
+    background-color: rgb(0, 0, 0);
+    border-top: 4px rgb(255, 0, 157) dashed;
+    margin: 0px;
+    color:  rgb(255, 0, 157) 
+}
+
+table td{
+    text-align: center;
+    
+}
+
+table{
+    width: 100%;
+
+}
+
+img{
+   width: 200px;
+    height: 150px;
+    border: 5px rgb(255, 0, 157) dotted;
+    margin: 9px;
+}
+
+.size{
+    border: 5px rgb(255, 0, 157) solid;
+    border-collapse: collapse;
+}
+
+.size td{
+   
+    border: 5px rgb(255, 0, 157) solid;
+}
+
+.tell{
+    color: green;
+}
